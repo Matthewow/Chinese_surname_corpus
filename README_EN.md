@@ -1,4 +1,4 @@
-# Chinese Surname Corpus
+# Chinese Surname Structural Romanizations (JSON)
 
 This corpus contains  509 Chinese common surname and the corresponding Romanizations, as a json file, including:
 
